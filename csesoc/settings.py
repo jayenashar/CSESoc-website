@@ -116,6 +116,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.sites',
     'django.contrib.admin',
+    'south',
     'csesoc.helpers',
     'csesoc.mainsite',    
     'csesoc.campleaders',
